@@ -1,0 +1,1 @@
+### Get a standard form and code for basic Machine Learning Models ( Regression and Classification ) , which will help you to choose between the best model for your data with the help of Accuracy score , R2 score etc . Also how to do Hyper Parameter you may also see the code for that
